@@ -5,3 +5,4 @@ Indicator pentru sarcina electronica
 
 inspired from https://www.youtube.com/watch?v=1ZTTSeCOSwo&t=3s
 
+![poza](https://github.com/vlad-gheorghe/Indicator-pentru-sarcina-electronica/blob/main/1658916244889.jpg)
